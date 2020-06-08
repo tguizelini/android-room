@@ -1,8 +1,8 @@
-package br.com.tguizelini.androidroom.room.daos
+package br.com.tguizelini.androidroom.data.daos
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import br.com.tguizelini.androidroom.room.entities.Task
+import br.com.tguizelini.androidroom.data.entities.Task
 
 @Dao
 interface TaskDao {

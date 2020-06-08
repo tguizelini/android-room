@@ -1,4 +1,4 @@
-package br.com.tguizelini.androidroom.room.entities
+package br.com.tguizelini.androidroom.data.entities
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

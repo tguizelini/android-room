@@ -2,7 +2,7 @@ package br.com.tguizelini.androidroom.config
 
 import android.app.Application
 import androidx.room.Room
-import br.com.tguizelini.androidroom.room.AppDatabase
+import br.com.tguizelini.androidroom.data.AppDatabase
 
 class MyApplication: Application() {
     companion object{
